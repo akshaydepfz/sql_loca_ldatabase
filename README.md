@@ -1,6 +1,6 @@
 # database_helper
 
-A new Flutter project.
+this is a local sql database in flutter
 
 ## Getting Started
 
